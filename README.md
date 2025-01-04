@@ -1,1 +1,1 @@
-Move Everything Execpt for this file and the .git into libertycity/stream/gtxd
+Move all ytd files to the libertycity/stream/gtxd folder
